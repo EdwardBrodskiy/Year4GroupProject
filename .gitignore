@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 data/
 venv/
+data_collection/my_nasa_api_key
