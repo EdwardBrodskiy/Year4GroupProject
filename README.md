@@ -1,6 +1,6 @@
-# Year 4 Group Project
+# Intelligent Early Wildfire Detection
 
-Info stuff to fill in later
+Wildfires are one of the main contributing factors to the acceleration of tree cover loss. This has a tremendous impact on the environment as the rate at which CO2 is absorbed becomes lower than the emission rate from burning fossil fuels. Such imbalance has a clear impact on the global temperature and is further aggravated by deforestation and land degradation. Ultimately, by exhausting the environment from its resources, the consequences of catastrophes -  both natural and human-caused - are likely to worsen and lead to greater losses. It is, thus, critical to develop and employ the right detection systems that can alert on active fires and help mitigate the impact on the environment.
 
 # File Structure
 
